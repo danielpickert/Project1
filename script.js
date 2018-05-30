@@ -12,48 +12,48 @@ var question9 = document.quiz.question9.value
 var question10 = document.quiz.question10.value
 var correct = 0
 
-if (question1 == "") {
+if (question1 == "Chocolate Turtles") {
 	correct++
 }
-if (question2 == "") {
+if (question2 == "The Dementors") {
 	correct++
 }
-if (question3 == "") {
+if (question3 == "Stayin' Alive") {
 	correct++
 }
-if (question4 == "") {
+if (question4 == "Garbage") {
 	correct++
 }
-if (question5 == "") {
+if (question5 == "Gould") {
 	correct++
 }
-if (question6 == "") {
+if (question6 == "Devin") {
 	correct++
 }
-if (question7 == "") {
+if (question7 == "WL HUNG") {
 	correct++
 }
-if (question8 == "") {
+if (question8 == "Anthony Gardner") {
 	correct++
 }
-if (question9 == "") {
+if (question9 == "Cocktails") {
 	correct++
 }
-if (question10 == "") {
+if (question10 == "Limitless Paper in a Paperless World") {
 	correct++
 }
 
-var messages = ["You're an expert! You should have taken over as regional manager when Steve Carell left the show after season 7!",
+var messages = ["You're an expert! You should have taken over as regional manager when Steve Carell left the show in season 7!",
  "Dinkin' Flicka! You're almost an expert but not quite. Sign the lease on your condo and go for the gold medal!",
-  "Rudit-dit-dadoo!",
-  "Good not great.",
-  "6 out of 10",
-  "5 out of 10",
-  "4 out of 10",
-  "3 out of 10",
-  "2 out of 10",
-  "1 out of 10",
-  "0 out of 10"]
+  "Rudit-dit-dadoo! Go celebrate with a drink at Poor Richard's!",
+  "Good not great. Try again.",
+  "Pretty average. You are cruisin' for a bruisin', and my name is Captain Bruisin'. Try again.",
+  "Not very good. You are basically Phyllis and this quiz is the soccer ball. Try again.",
+  "You gotta be kidding me. You call yourself a fan? Try again.",
+  "Very bad. You might want to lay low for awhile. Try again.",
+  "Seriously? Even Toby would have done better. Try again.",
+  "NOOOOOOOOO!!!!!!!!!! Try again.",
+  "Rock bottom. Try again."]
 
  var gifs = ["img/0gif.gif","img/1gif.gif","img/2gif.gif","img/3gif.gif",
  "img/4gif.gif","img/5gif.gif","img/6gif.gif","img/7gif.gif",

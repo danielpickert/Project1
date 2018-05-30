@@ -1,8 +1,49 @@
 body {
 	font-family: 'Quicksand', sans-serif;
+	background: #000000;
+	color: white;
+}
+
+#quiz {
+	margin-right: 20px;
+	background: #292E2C;
+	padding: 10px 20px 10px 20px;
+	width: 500px;
+	border-radius: 15px;
+	float: left;
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+#button {
+	color: white;
+	background: #1D4889;
+	font-size: 20px;
+	margin-top: 20px;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#button:hover {
+	background: #2FBE2E;
+	color: white;
+	cursor: pointer;
 }
 
 #after_submit {
 	visibility: hidden;
+	font-size: 30px;
+	background: #1941AF;
+	padding: 10px;
+	border-radius: 10px;
+	float: left;
 
+}
+
+#gif {
+	width: 400px;
+	height: 300px;
 }
