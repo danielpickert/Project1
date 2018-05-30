@@ -55,7 +55,9 @@ var messages = ["You're an expert! You should have taken over as regional manage
   "1 out of 10",
   "0 out of 10"]
 
- var gifs = ["","","",]
+ var gifs = ["img/0gif.gif","img/1gif.gif","img/2gif.gif","img/3gif.gif",
+ "img/4gif.gif","img/5gif.gif","img/6gif.gif","img/7gif.gif",
+ "img/8gif.gif","img/9gif.gif","img/10gif.gif"]
 
  var index
 
@@ -110,5 +112,6 @@ document.getElementById("after_submit").style.visibility = "visible"
 
 document.getElementById("message").innerHTML = messages[index]
 document.getElementById("number_correct").innerHTML = "You got " + correct + " correct!"
+document.getElementById("gif").src = gifs[index]
 
 }
