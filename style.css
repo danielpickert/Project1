@@ -4,13 +4,21 @@ body {
 	color: white;
 }
 
+.container {
+	display: flex;
+	flex-direction: row;
+}
+
+h1 {
+	border-bottom: 7px solid white;
+}
+
 #quiz {
-	margin-right: 20px;
+	margin-right: 10px;
 	background: #292E2C;
 	padding: 10px 20px 10px 20px;
-	width: 500px;
+	width: 50%;
 	border-radius: 15px;
-	float: left;
 }
 
 input {
@@ -28,8 +36,8 @@ input {
 }
 
 #button:hover {
-	background: #2FBE2E;
-	color: white;
+	background: white;
+	color: black;
 	cursor: pointer;
 }
 
@@ -39,11 +47,41 @@ input {
 	background: #1941AF;
 	padding: 10px;
 	border-radius: 10px;
-	float: left;
+	display: block;
+	vertical-align: bottom;
+	margin: 10px auto;
+	width: 95%;
 
 }
 
 #gif {
-	width: 400px;
-	height: 300px;
+	width: 100%;
+	height: 100%;
+}
+
+.photos {
+	flex-direction: column;
+	width: 45%;
+}
+
+img {
+	border-radius: 10px;
+	width: 100%;
+}
+
+#Group {
+	margin: 0 auto;
+}
+
+#Michael {
+	margin: 10px auto;
+	height: 350px;
+}
+
+#Dwight {
+	margin: 0 auto;
+}
+
+#Andy {
+	margin: 10px auto;
 }

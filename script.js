@@ -47,12 +47,12 @@ var messages = ["You're an expert! You should have taken over as regional manage
  "Dinkin' Flicka! You're almost an expert but not quite. Sign the lease on your condo and go for the gold medal!",
   "Rudit-dit-dadoo! Go celebrate with a drink at Poor Richard's!",
   "Good not great. Try again.",
-  "Pretty average. You are cruisin' for a bruisin', and my name is Captain Bruisin'. Try again.",
+  "Very average. You are cruisin' for a bruisin', and my name is Captain Bruisin'. Try again.",
   "Not very good. You are basically Phyllis and this quiz is the soccer ball. Try again.",
   "You gotta be kidding me. You call yourself a fan? Try again.",
   "Very bad. You might want to lay low for awhile. Try again.",
-  "Seriously? Even Toby would have done better. Try again.",
-  "NOOOOOOOOO!!!!!!!!!! Try again.",
+  "Even Toby would have done better. Try again.",
+  "Absolutely horrific. Try again.",
   "Rock bottom. Try again."]
 
  var gifs = ["img/0gif.gif","img/1gif.gif","img/2gif.gif","img/3gif.gif",
