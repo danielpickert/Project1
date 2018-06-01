@@ -29,7 +29,7 @@ I categorized this project into 3 categories with goals I wanted to accomplish:
 
 ## Contribute: 
 
-* Figure out why img id="gif" is showing up as an error in HTML validator. If I change the syntax, gifs don't appear anymore after clicking "Done".
+* Figure out why ```html <img id="gif">``` is showing up as an error in HTML validator. If I change the syntax, gifs don't appear anymore after clicking "Done".
 * Add a timer
 * Add questions & answers, along with messages/gifs that appear based on number answered correctly
 
