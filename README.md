@@ -4,7 +4,7 @@ This is a fun trivia game for fans of the TV show "The Office."
 
 ![alt text](img/briefexample.png)
 
-## Current Features:
+## Current Features
 
 * Users can answer questions based on their knowledge of The Office
 
@@ -22,12 +22,12 @@ I categorized this project into 3 categories with goals I wanted to accomplish:
 * CSS
 * Javascript
 
-## Installation instructions:
+## Installation Instructions
 
 1. Fork and clone the [project repository](https://github.com/danielpickert/Project1)
 2. Open code text editor
 
-## Contribute: 
+## Contribute 
 
 * Figure out why ```<img id="gif">``` is showing up as an error in HTML validator. If I change the syntax, gifs don't appear anymore after clicking "Done".
 * Add a timer
