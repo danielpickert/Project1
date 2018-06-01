@@ -2,23 +2,42 @@
 
 This is a fun trivia game for fans of the TV show "The Office."
 
-For this project, I used HTML, CSS, and Javascript.
 
 I created a function check() in my javascript file to cross-reference the correct answers with the answers that the User selected. After clicking "Done," a specific message with a specific gif will appear on the right-hand side of the page, shown below:
 
 ![alt text](img/briefexample.png)
 
-Features:
+## Current Features:
 
-Bronze: 10 functioning questions that, after clicking "Done", provide you with how many you got correct
+* Users can answer questions based on their knowledge of The Office
 
-Silver: Visually appealing with images and clean layout
+I categorized this project into 3 categories with goals I wanted to accomplish:
 
-Gold: Different messages/gifs that appear based on how many questions the User answered correctly
+* Bronze - Users can answer 10 functioning questions that, after clicking "Done", provide you with how many you answered correctly
 
-Installation instructions:
+* Silver - Visually appealing CSS with images and clean layout
 
-Contribution: Users can contribute to my code by 
+* Gold - Different messages/gifs that appear based on how many questions the User answered correctly
+
+## Technologies Used
+
+* HTML
+* CSS
+* Javascript
+
+## Installation instructions:
+
+1. Fork and clone the [project repository](https://github.com/danielpickert/Project1)
+2. Open code text editor
+
+## Contribute: 
+
+* Figure out why <img id="gif"> is showing up as an error in HTML validator. If I change the syntax, gifs don't appear anymore after clicking "Done".
+* Add a timer
+* Add questions & answers, along with messages/gifs that appear based on number answered correctly
+
+* Source code: https://github.com/danielpickert/Project1
+* Issue Tracker: https://github.com/danielpickert/Project1/issues
 
 
 
