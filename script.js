@@ -13,7 +13,6 @@ var question10 = document.quiz.question10.value
 var correct = 0
 
 // Correct answers
-
 if (question1 == "Chocolate Turtles") {
 	correct++
 }
@@ -46,7 +45,6 @@ if (question10 == "Limitless Paper in a Paperless World") {
 }
 
 // Messages that will appear based on how many the User got correct
-
 var messages = ["You're an expert! You should have taken over as regional manager when Steve Carell left the show in season 7!",
  "Dinkin' Flicka! You're almost an expert but not quite. Try again and go for the gold!",
   "Rudit-dit-dadoo! Go celebrate with a drink at Poor Richard's!",
@@ -61,12 +59,11 @@ var messages = ["You're an expert! You should have taken over as regional manage
 
 
  // Gifs that will appear after User clicks "Done"
-
  var gifs = ["img/0gif.gif","img/1gif.gif","img/2gif.gif","img/3gif.gif",
  "img/4gif.gif","img/5gif.gif","img/6gif.gif","img/7gif.gif",
  "img/8gif.gif","img/9gif.gif","img/10gif.gif"]
 
-// Chooses which message is displayed after User clicks "Done"
+// Determines which message is displayed after User clicks "Done"
  var index
 
  	if (correct == 0) {
