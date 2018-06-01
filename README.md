@@ -2,9 +2,6 @@
 
 This is a fun trivia game for fans of the TV show "The Office."
 
-
-I created a function check() in my javascript file to cross-reference the correct answers with the answers that the User selected. After clicking "Done," a specific message with a specific gif will appear on the right-hand side of the page, shown below:
-
 ![alt text](img/briefexample.png)
 
 ## Current Features:
@@ -32,7 +29,7 @@ I categorized this project into 3 categories with goals I wanted to accomplish:
 
 ## Contribute: 
 
-* Figure out why <img id="gif"> is showing up as an error in HTML validator. If I change the syntax, gifs don't appear anymore after clicking "Done".
+* Figure out why img id="gif" is showing up as an error in HTML validator. If I change the syntax, gifs don't appear anymore after clicking "Done".
 * Add a timer
 * Add questions & answers, along with messages/gifs that appear based on number answered correctly
 
