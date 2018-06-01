@@ -44,7 +44,7 @@ if (question10 == "Limitless Paper in a Paperless World") {
 }
 
 var messages = ["You're an expert! You should have taken over as regional manager when Steve Carell left the show in season 7!",
- "Dinkin' Flicka! You're almost an expert but not quite. Sign the lease on your condo and go for the gold medal!",
+ "Dinkin' Flicka! You're almost an expert but not quite. Try again and go for the gold!",
   "Rudit-dit-dadoo! Go celebrate with a drink at Poor Richard's!",
   "Good not great. Try again.",
   "Very average. You are cruisin' for a bruisin', and my name is Captain Bruisin'. Try again.",
@@ -52,7 +52,7 @@ var messages = ["You're an expert! You should have taken over as regional manage
   "You gotta be kidding me. You call yourself a fan? Try again.",
   "Very bad. You might want to lay low for awhile. Try again.",
   "Even Toby would have done better. Try again.",
-  "Absolutely horrific. Try again.",
+  "Terrible. Try again.",
   "Rock bottom. Try again."]
 
  var gifs = ["img/0gif.gif","img/1gif.gif","img/2gif.gif","img/3gif.gif",
