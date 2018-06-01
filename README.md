@@ -1,4 +1,4 @@
-#The Office Trivia Game
+# The Office Trivia Game
 
 This is a fun trivia game for fans of the TV show "The Office."
 
